@@ -1,27 +1,40 @@
-﻿# Visual Studio
+﻿# Build
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
 .vs/
 *.user
 *.suo
-
-# Build
-bin/
-obj/
-
-# Rider
-.idea/
+*.userosscache
+*.sln.docstates
 
 # Visual Studio Code
 .vscode/
 
-# Build artifacts
-[Dd]ebug/
-[Rr]elease/
+# Rider
+.idea/
 
-# User-specific files
-*.user
-*.rsuser
-*.suo
+# NuGet
+*.nupkg
+*.snupkg
 
-# OS files
+# Logs
+*.log
+
+# OS
 .DS_Store
 Thumbs.db
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish
+publish/
+Publish/
