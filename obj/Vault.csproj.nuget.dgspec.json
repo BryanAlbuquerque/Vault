@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Vault\\Vault.csproj": {}
+    "D:\\Projetos\\Vault\\Vault\\Vault.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Vault\\Vault.csproj": {
+    "D:\\Projetos\\Vault\\Vault\\Vault.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Vault\\Vault.csproj",
+        "projectUniqueName": "D:\\Projetos\\Vault\\Vault\\Vault.csproj",
         "projectName": "Vault",
-        "projectPath": "D:\\Projetos\\Vault\\Vault.csproj",
+        "projectPath": "D:\\Projetos\\Vault\\Vault\\Vault.csproj",
         "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Vault\\obj\\",
+        "outputPath": "D:\\Projetos\\Vault\\Vault\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

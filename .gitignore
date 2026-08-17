@@ -1,0 +1,27 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Build artifacts
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
