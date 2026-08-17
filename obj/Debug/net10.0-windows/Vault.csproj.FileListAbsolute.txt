@@ -1,0 +1,16 @@
+D:\Projetos\Vault\bin\Debug\net10.0-windows\Vault.exe
+D:\Projetos\Vault\bin\Debug\net10.0-windows\Vault.deps.json
+D:\Projetos\Vault\bin\Debug\net10.0-windows\Vault.runtimeconfig.json
+D:\Projetos\Vault\bin\Debug\net10.0-windows\Vault.dll
+D:\Projetos\Vault\bin\Debug\net10.0-windows\Vault.pdb
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.Form1.resources
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.csproj.GenerateResource.cache
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.AssemblyInfoInputs.cache
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.AssemblyInfo.cs
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.csproj.CoreCompileInputs.cache
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.dll
+D:\Projetos\Vault\obj\Debug\net10.0-windows\refint\Vault.dll
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.pdb
+D:\Projetos\Vault\obj\Debug\net10.0-windows\Vault.genruntimeconfig.cache
+D:\Projetos\Vault\obj\Debug\net10.0-windows\ref\Vault.dll
