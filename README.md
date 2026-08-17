@@ -2,19 +2,14 @@
 
 Sistema desktop para gerenciamento de uma biblioteca pessoal de filmes e séries.
 
-O Vault permite organizar filmes, séries e franquias, registrar avaliações, controlar o status de acompanhamento e visualizar uma visão geral da biblioteca por meio de um Dashboard.
+O **Vault** foi desenvolvido com o objetivo de centralizar e organizar uma biblioteca pessoal de mídia em uma aplicação desktop simples, rápida e totalmente local. O sistema permite cadastrar filmes e séries, organizá-los em franquias, registrar avaliações, controlar o status de acompanhamento e visualizar uma visão geral da biblioteca por meio de um Dashboard.
 
-O projeto foi desenvolvido em C# utilizando Windows Forms e arquitetura em camadas, com separação entre interface, regras de negócio, acesso aos dados e modelos.
+A aplicação foi desenvolvida em **C# utilizando Windows Forms e arquitetura em camadas**, mantendo uma separação entre a interface do usuário, as regras de negócio, o acesso aos dados e os modelos da aplicação.
 
----
+Para a persistência das informações, o Vault utiliza **arquivos JSON**, armazenados no diretório de dados do usuário do Windows. Dessa forma, os dados permanecem disponíveis localmente, sem a necessidade de um banco de dados ou servidor externo.
 
-## Sobre o projeto
+O sistema oferece uma experiência prática para gerenciar filmes e séries, permitindo acompanhar quais conteúdos já foram assistidos, quais ainda estão em andamento e manter um histórico organizado da biblioteca pessoal.
 
-O Vault foi desenvolvido com o objetivo de centralizar uma biblioteca pessoal de mídia em uma aplicação desktop simples, rápida e totalmente local.
-
-O sistema permite cadastrar filmes e séries, associá-los a franquias, registrar avaliações e acompanhar quais conteúdos já foram assistidos ou ainda estão em andamento.
-
-A aplicação utiliza arquivos JSON para persistência dos dados, armazenados no diretório de dados do usuário do Windows.
 
 ---
 
